@@ -13,7 +13,6 @@ The purpose of this project is to visually show the differences between the magn
 
 
 ## Resources
-- **Webpage:** https://llisha-bleu.github.io/Mapping_Earthquakes/
 - **Data Source:** `tectonic_plate_starter_logic.js`, `major_eq_starter_logic.js`, `index.html`,
 - **Software:** `VS Code`, `Web Browser`, `Command-line interface`, `GitHub`
 
